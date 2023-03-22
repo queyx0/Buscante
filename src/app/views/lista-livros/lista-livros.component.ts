@@ -1,17 +1,21 @@
 import { Component } from '@angular/core';
+import { LivroService } from 'src/app/service/livro.service';
 
 @Component({
   selector: 'app-lista-livros',
   templateUrl: './lista-livros.component.html',
-  styleUrls: ['./lista-livros.component.css']
+  styleUrls: ['./lista-livros.component.css'],
 })
 export class ListaLivrosComponent {
+  listaLivros: any[];
+  filtro: string = '';
 
-  listaLivros: [];
+  constructor(private service: LivroService) {}
 
-  constructor() { }
-
+  buscarLivros() {
+    this.service.buscarLivros(this.filtro).subscribe(
+      (res) => console.log(res),
+      (error) => console.log(error)
+    );
+  }
 }
-
-
-

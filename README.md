@@ -2,18 +2,18 @@
 
 <ul>
 <li>Padrão de projeto com componentes de apresentação e componentes containers </li>
-<li>Conheça o padrão de projeto Observer
+<li>Padrão de projeto Observer
 </li>
-<li>Entenda como utilizar Observables
+<li>Utilização de Observables
 </li>
-<li>Saiba como debugar o fluxo do observable com o operador tap
+<li>Debug do fluxo de observables com o operador tap
 </li>
-<li>Aprenda a manipular os dados retornados do backend com o operador map
+<li>Manipulação dos dados retornados do backend com o operador map
 </li>
-<li>Otimize a busca typeahead com os operadores switchMap, filter e debounceTime
+<li>Otimizeação da busca typeahead com os operadores switchMap, filter e debounceTime
 </li>
-<li>Realize unsubscribe automático através do pipe async
+<li>Realizar unsubscribe automático através do pipe async
 </li>
-<li>Lide com erros na aplicação utilizando catchError e throwError
+<li>Lidar com erros na aplicação utilizando catchError e throwError
 </li>
 </ul>
