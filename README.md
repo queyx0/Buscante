@@ -1,4 +1,4 @@
-<h1>O que eu aprendi neste projeto?</h1>
+<h1>O que eu aprendi neste projeto? E agora sou capaz de fazer</h1>
 
 <ul>
 <li>Padrão de projeto com componentes de apresentação e componentes containers </li>
