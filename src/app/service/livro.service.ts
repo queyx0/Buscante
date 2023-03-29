@@ -17,8 +17,7 @@ export class LivroService {
       params,
     }).pipe(tap(res => console.log('Fluxo do tap',res)),
     map(res => res.items),
-    tap(res => console.log('Fluxo após map', res)
-    )
+    // tap(res => console.log('Fluxo após map', res))
     )
   }
 }
