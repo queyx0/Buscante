@@ -1,7 +1,7 @@
 <p align=center><img alt="Logo do aplicativo bsucante" src="https://user-images.githubusercontent.com/108700978/228287454-cc2bb323-9cc1-4b65-a2de-4b78e7e5d44e.png"> </p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 <h3>💡 O que eu aprendi neste projeto?</h1>
